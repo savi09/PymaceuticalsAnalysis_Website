@@ -1,0 +1,10 @@
+
+.container {
+    min-height: 50px;
+    padding: 5px;
+    margin: 50px;
+    color: rgba(2, 2, 2, 0.808);
+    background: rgb(221, 221, 221);
+  }
+
+
