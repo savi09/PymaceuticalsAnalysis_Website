@@ -7,4 +7,13 @@
     background: rgb(221, 221, 221);
   }
 
+  .container-2 {
+    min-height: 50px;
+    padding: 5px;
+    margin: 50px;
 
+  }
+
+  .rounded {
+    background: rosybrown;
+  }
