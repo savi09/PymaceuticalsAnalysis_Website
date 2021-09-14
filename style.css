@@ -3,8 +3,8 @@
     min-height: 50px;
     padding: 5px;
     margin: 50px;
-    color: rgba(2, 2, 2, 0.808);
-    background: rgb(221, 221, 221);
+    color: rgb(255, 255, 255);
+    background: rgb(27, 82, 74);
   }
 
   .container-2 {
@@ -22,5 +22,9 @@
   }
 
   .rounded {
-    background: rosybrown;
+    background: rgb(175, 174, 174);
+  }
+
+  body {
+    background-color: rgb(182, 219, 211);
   }
