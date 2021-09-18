@@ -30,3 +30,8 @@ Used the Scatter Plot, Correlation and Regression on the [Weight vs. Tumor Volum
 
 ![alt text](https://github.com/savi09/PymaceuticalsAnalysis/blob/df85942d227223dcda5ae03e84edc258d81953c8/Charts/Correlation%20Linear%20Reg.png)
 
+## Comparison
+You can compare four of these charts on the [Comparison](https://savi09.github.io/PymaceuticalsAnalysis_Website/Comparison.html) page.
+
+## Date
+To view the data used, go to the [Data](https://savi09.github.io/PymaceuticalsAnalysis_Website/data.html) page.
