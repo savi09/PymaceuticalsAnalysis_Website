@@ -1,7 +1,7 @@
 # PymaceuticalsAnalysis_Website
 Using HTML and CSS to create a dashboard showing the Pymaceuticals analysis.
 
-To view the original analysis go to ![PymaceuticalsAnalysis](https://github.com/savi09/PymaceuticalsAnalysis) github repository.
+To view the original analysis go to [PymaceuticalsAnalysis](https://github.com/savi09/PymaceuticalsAnalysis) github repository.
 
 ## Sumamry Table
 Created a summary table of mean, median, variance, standard deviation, and standard error of mean of the tumor volume for each drug regimen. Drugs for treatment: Capomulin, Ceftamin, Infubinol, Ketapril, Naftisol, Placebo, Propiva, Ramicane, Stelasyn, and Zoniferol
